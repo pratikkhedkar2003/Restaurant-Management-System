@@ -1,0 +1,13 @@
+package com.pkcoder;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RestaurantManagementSystemSpringApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
